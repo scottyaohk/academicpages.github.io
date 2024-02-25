@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% assign sorted_projects = site.projects | sort: 'date' %}
+{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 {% for project in sorted_projects %}
   {% capture year %}{{ project.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
