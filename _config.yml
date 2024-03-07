@@ -21,7 +21,7 @@ repository               : "scottyaohk/scottyaohk.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/WechatIMG2581.jpeg"
+  avatar           : "WechatIMG2581.jpeg"
   name             : "Yao Xiang"
   pronouns         : # example: "she/her"  
   bio              : #
