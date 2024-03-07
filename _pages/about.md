@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, my name is YaoXiang :)
 
-- I am interested in artificial intelligence and robotics. Currently, I devotes 80% of my time to deep learning and 20% in other fields. 
+- I am interested in artificial intelligence. Currently, I devotes 80% of my time to deep learning and 20% in other fields. 
 - I had start up experience before. You can see it [here](https://scottyaohk.github.io/posts/2023/08/project-1/).
 - I had one full-time RA experience at HKU. My mentor is Prof. Lionel Li. I mainly helped with implementing deep learning algorithms to facilitate my mentor's research in applied machine learning.
 - I am currently looking for full-time research assistant positions. Here is what I have experience in:
