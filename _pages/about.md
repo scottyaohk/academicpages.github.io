@@ -10,7 +10,7 @@ redirect_from:
 Hello, my name is YaoXiang :)
 
 - I am interested in artificial intelligence and all those sci-fi like things. Currently, I devotes 80% of my time to deep learning and 20% in other fields. 
-- I am currently looking for full-time research assistant positions. Here is what I have experience in:
+- I am currently looking for research opportunities. Here is what I have experience in:
   - Artificial Intelligence:
     - Implementing deep learning algorithms, including reinforcement learning, CV-related models, fintuning LLMs, GNN, etc.
     - I like to read famous AI papers, try to understand the thoughts behind them, figure out all the details and implement them myself.
